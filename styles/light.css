@@ -36,8 +36,7 @@
     --button-border-hover-color: #35343066;
     --link-border-bottom-color: #353430;
   }
-}
-
-.page.theme_light .header__decoration-rec {
-  display: none;
+  .page.theme_light .header__decoration-rec {
+    display: none;
+  }
 }
