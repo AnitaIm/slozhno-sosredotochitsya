@@ -20,7 +20,22 @@
   --border-color: #353430;
   --button-border-hover-color: #35343066;
   --link-border-bottom-color: #353430;
+}
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --main-background-color: #FFF1F7;
+    --background-image: url("../images/cover-image-light.png");
+    --button-text-color: #353430;
+    --h1-title-color: #FFC2E6;
+    --main-text-color: #FF8DCB;
+    --h2-title-color: #353430;
+    --color-accent: #353430;
+    --section-text-color: #353430;
+    --border-color: #353430;
+    --button-border-hover-color: #35343066;
+    --link-border-bottom-color: #353430;
+  }
 }
 
 .page.theme_light .header__decoration-rec {
