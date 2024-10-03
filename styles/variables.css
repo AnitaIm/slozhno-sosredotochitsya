@@ -5,15 +5,16 @@
 :root {
   --button-text-color: #FF0070;
   --border-color: #FF0070;
-  --h1-title-shadow-color: #FF0070;
+  --main-title-shadow-color: #FF0070;
   --main-text-color: #FF0070;
-  --main-font-family: IBM Plex Mono;
+  --main-font-family: "IBM Plex Mono", Arial, sans-serif;
   --main-background-color: #000028;
-  --h1-title-color: #DB00FF;
-  --h2-title-color: #FF0070;
+  --main-title-color: #DB00FF;
+  --title-color: #FF0070;
   --color-accent: #000028;
   --link-border-bottom-color: #F1B2CE;
   --section-text-color: #F1B2CE;
   --background-image: url("../images/cover-image-dark.png");
   --button-border-hover-color: #ff007066;
+  --background-color-text: #FF0070;
 }
